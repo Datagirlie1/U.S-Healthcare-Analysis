@@ -17,6 +17,8 @@ This data Analysis was created using Power BI to explore healthcare patterns acr
 
 ![](https://github.com/Datagirlie1/U.S-Healthcare-Analysis/blob/c34a97cc5682a4c3a61d56759ccff0fc12bde166/Screenshot%202025-04-18%20125310.png)
 
+![](https://github.com/Datagirlie1/U.S-Healthcare-Analysis/blob/f209453fe36ec80cb73caa41ec0b4906b7d51746/Screenshot%202025-04-18%20125338.png)
+
 
 
 ### Tools
