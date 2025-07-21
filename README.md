@@ -15,7 +15,7 @@
 ### Introduction
 This data Analysis was created using Power BI to explore healthcare patterns across U.S. hospitals between 2019 and 2024. It focuses on patient demographics, treatment costs, common medications, and types of hospital admissions.
 
-![]()
+![](https://github.com/Datagirlie1/U.S-Healthcare-Analysis/blob/c34a97cc5682a4c3a61d56759ccff0fc12bde166/Screenshot%202025-04-18%20125310.png)
 
 
 
